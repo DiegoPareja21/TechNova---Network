@@ -25,4 +25,4 @@ Diseño de una red LAN corporativa segmentada por departamentos que integra:
 ## Archivos
 - `TechNova.pkt` → Proyecto funcional
 - `Memoria_TechNova.pdf` → Documentación técnica
-- `topologia.png` → Esquema de red
+- `Enunciado_Proyecto` -> Documento con información para realizar el proyecto.
